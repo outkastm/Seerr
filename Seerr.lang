@@ -1,0 +1,155 @@
+[en-us]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[zh-cn]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[zh-hk]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[ja-jp]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[de-de]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[fr-fr]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[it-it]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[es-es]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[ko-kr]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[hu-hu]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[pl-pl]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[ru-ru]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[tr-tr]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bundles Seerr v3.5.3 built from source"
+descript = "Seerr is a request management and media discovery tool built to work with your existing Plex/Jellyfin ecosystem."
+
+[cs-cz]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Obsahuje Seerr v3.5.3 sestavený ze zdrojového kódu"
+descript = "Seerr je nástroj pro správu požadavků a objevování médií navržený pro spolupráci s vaším stávajícím ekosystémem Plex/Jellyfin."
+
+[da-dk]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Indeholder Seerr v3.5.3 bygget fra kildekode"
+descript = "Seerr er et værktøj til anmodningsstyring og medieopdagelse, der er bygget til at fungere med dit eksisterende Plex/Jellyfin-økosystem."
+
+[nl-nl]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bevat Seerr v3.5.3 gebouwd vanaf de broncode"
+descript = "Seerr is een hulpprogramma voor verzoekbeheer en media-ontdekking dat is ontworpen om te werken met uw bestaande Plex/Jellyfin-ecosysteem."
+
+[nb-no]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Inneholder Seerr v3.5.3 bygget fra kildekode"
+descript = "Seerr er et verktøy for forespørselsbehandling og medieoppdagelse, laget for å fungere med ditt eksisterende Plex/Jellyfin-økosystem."
+
+[sv-se]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Innehåller Seerr v3.5.3 byggd från källkod"
+descript = "Seerr är ett verktyg för hantering av förfrågningar och medieupptäckt, utformat för att fungera med ditt befintliga Plex/Jellyfin-ekosystem."
+
+[el-gr]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Περιλαμβάνει το Seerr v3.5.3 μεταγλωττισμένο από τον πηγαίο κώδικα"
+descript = "Το Seerr είναι ένα εργαλείο διαχείρισης αιτημάτων και ανακάλυψης πολυμέσων σχεδιασμένο να λειτουργεί με το υπάρχον οικοσύστημα Plex/Jellyfin."
+
+[ro-ro]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Include Seerr v3.5.3 construit din codul sursă"
+descript = "Seerr este un instrument de gestionare a solicitărilor și descoperire media, conceput pentru a funcționa cu ecosistemul dvs. Plex/Jellyfin existent."
+
+[th-th]
+name = "Seerr"
+auth = "Seerr"
+release_note = "รวม Seerr v3.5.3 ที่สร้างจากซอร์สโค้ด"
+descript = "Seerr คือเครื่องมือจัดการคำขอและค้นหาสื่อที่ออกแบบมาเพื่อทำงานร่วมกับระบบ Plex/Jellyfin ที่มีอยู่ของคุณ"
+
+[vi-vn]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Bao gồm Seerr v3.5.3 được biên dịch từ mã nguồn"
+descript = "Seerr là một công cụ quản lý yêu cầu và khám phá phương tiện được xây dựng để hoạt động với hệ sinh thái Plex/Jellyfin hiện có của bạn."
+
+[id-id]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Menyertakan Seerr v3.5.3 yang dibangun dari kode sumber"
+descript = "Seerr adalah alat manajemen permintaan dan penemuan media yang dirancang untuk bekerja dengan ekosistem Plex/Jellyfin Anda yang sudah ada."
+
+[ar-sa]
+name = "Seerr"
+auth = "Seerr"
+release_note = "يتضمن Seerr v3.5.3 المجمع من المصدر"
+descript = "Seerr هي أداة لإدارة الطلبات واكتشاف الوسائط تم بناؤها للعمل مع نظام Plex/Jellyfin الحالي لديك."
+
+[he-il]
+name = "Seerr"
+auth = "Seerr"
+release_note = "כולל את Seerr v3.5.3 שנבנה מקוד המקור"
+descript = "Seerr הוא כלי לניהול בקשות וגילוי מדיה שנבנה כדי לעבוד עם המערכת הקיימת שלך של Plex/Jellyfin."
+
+[pt-pt]
+name = "Seerr"
+auth = "Seerr"
+release_note = "Inclui o Seerr v3.5.3 compilado a partir do código-fonte"
+descript = "O Seerr é uma ferramenta de gestão de pedidos e descoberta de conteúdos multimédia desenvolvida para funcionar com o seu ecossistema Plex/Jellyfin existente."
